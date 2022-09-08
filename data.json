@@ -6,14 +6,14 @@
             "-8- consulting projects for 5 clients in 4 industries.",
             "-13- publications, 2 of which for academia, 6 for practice & 5 public speeches.",
             "Proficient in -5- programming languages and 3 subject areas.",
-            "-1.2- GPA B.Sc. and finished top of the year, 1.2 GPA M.Sc. at TUM (currently)."
+            "-1.2-* GPA B.Sc. and finished top of the year, 1.2* GPA M.Sc. at TUM (*german GPA)."
         ],
         "status":"I am currently studying for my Master's degree at TUM and am spending my semester abroad at TU Denmark in Copenhagen.",
         "contact": [
             {"title": "LinkedIn", "description": "For more information about my career please have a look at LinkedIn. I look forward to your networking request!", "link":"https://www.linkedin.com/in/tim-körppen/"},
             {"title": "ResearchGate", "description": "My publications are also on ResearchGate. Check them out and let's connect.", "link":"https://www.researchgate.net/profile/Tim-Koerppen"},
             {"title": "GitHub", "description": "You can also find some of my projects on GitHub. Check them out!", "link":"https://github.com/tkrpn"},
-            {"title": "Mail", "description": "I am also always glad to receive a mail from you.", "link":"mailto:ws.tim.krpn@gmail.com"}
+            {"title": "Mail", "description": "I am also always glad to receive a mail from you. Also feedback about this site (and bugs if you found any) are always welcome. :)", "link":"mailto:ws.tim.krpn@gmail.com"}
         ]
     },
     "chonology": {
