@@ -9,6 +9,10 @@
             "-1.2- GPA B.Sc. and finished top of the year, 1.2 GPA M.Sc. at TUM."
         ],
         "status":"I am currently studying for my Master's degree at TUM and am spending my semester abroad at DTU in Copenhagen. I love technology and code, especially ML, DL and AI and lately Web3 and smart contract development in Solidity. Additionally I have some experience in management consulting and research. For more, feel free to check out my LinkedIn.",
+        "headers": {
+            "consulting": "",
+            "academia": ""
+        },
         "contact": [
             {"title": "LinkedIn", "description": "For more information about my career please have a look at LinkedIn. I look forward to your networking request!", "link":"https://www.linkedin.com/in/tim-körppen/"},
             {"title": "ResearchGate", "description": "My publications are also on ResearchGate. Check them out and let's connect.", "link":"https://www.researchgate.net/profile/Tim-Koerppen"},
