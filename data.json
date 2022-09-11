@@ -17,7 +17,7 @@
             {"title": "LinkedIn", "description": "For more information about my career please have a look at LinkedIn. I look forward to your networking request!", "link":"https://www.linkedin.com/in/tim-körppen/"},
             {"title": "ResearchGate", "description": "My publications are also on ResearchGate. Check them out and let's connect.", "link":"https://www.researchgate.net/profile/Tim-Koerppen"},
             {"title": "GitHub", "description": "You can also find some of my projects on GitHub. Check them out!", "link":"https://github.com/tkrpn"},
-            {"title": "Mail", "description": "I am also always glad to receive a mail from you. Also feedback about this site (and bugs if you found any) are always welcome. :)", "link":"mailto:ws.tim.krpn@gmail.com"}
+            {"title": "E-Mail", "description": "I am also always glad to receive an e-mail from you. Also feedback about this site (and bugs if you found any) are always welcome. :)", "link":"mailto:ws.tim.krpn@gmail.com"}
         ]
     },
     "chonology": {
@@ -107,7 +107,7 @@
             "linkedin": "https://upload.wikimedia.org/wikipedia/commons/0/01/LinkedIn_Logo.svg",
             "researchgate": "https://upload.wikimedia.org/wikipedia/commons/a/aa/ResearchGate_Logo.png",
             "github": "https://upload.wikimedia.org/wikipedia/commons/2/29/GitHub_logo_2013.svg",
-            "mail": "https://upload.wikimedia.org/wikipedia/commons/7/7a/If_aiga_mail_134146_%281%29.png",
+            "e-mail": "https://upload.wikimedia.org/wikipedia/commons/7/7a/If_aiga_mail_134146_%281%29.png",
             "pytorch": "https://upload.wikimedia.org/wikipedia/commons/9/96/Pytorch_logo.png",
             "colab": "https://upload.wikimedia.org/wikipedia/commons/d/d0/Google_Colaboratory_SVG_Logo.svg"
         },
